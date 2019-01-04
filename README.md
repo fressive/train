@@ -6,6 +6,7 @@
 ## 配置
 1. 安装下列依赖库
     - requests
+    - prettytable
     - twilio
 2. 配置 [twilio](https://www.twilio.com) (SMS)
 ## 运行
